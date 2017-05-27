@@ -1,12 +1,15 @@
-# Basic Project
-## Basic Project Structure
+# AdactIn Project
+## AdactIn Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A AdactIn Project*
 
 **Java 8**
 
 * Maven
-* JUnit
+* MySQL
+* TestNG
+* Log4j
+* Apache
 
 Java Project for SQA Boot Camp Program. 
 
